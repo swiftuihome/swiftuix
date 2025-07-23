@@ -10,9 +10,9 @@
 
 ## 🛠️ 技术栈
 
-- [VitePress](https://vitepress.dev/) – 极简静态网站生成器
+- [VitePress](https://vitepress.dev/zh/) – 极简静态网站生成器
 - [Markdown](https://markdown.com.cn/) – 内容撰写格式
-- [Vue 3](https://vuejs.org/) – 前端框架（VitePress 底层依赖）
-- [GitHub Pages](https://pages.github.com/) – 静态页面托管平台
+- [Vue 3](https://cn.vuejs.org/) – 前端框架（VitePress 底层依赖）
+- [GitHub Pages](https://docs.github.com/zh/pages) – 静态页面托管平台
 
 ---
