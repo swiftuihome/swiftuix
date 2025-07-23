@@ -5,6 +5,8 @@ node_modules/
 .vitepress/dist/
 
 # Temp files
+docs/.vitepress/cache/
+docs/.vitepress/.temp/
 .vitepress/cache/
 .vitepress/.temp/
 .temp/
