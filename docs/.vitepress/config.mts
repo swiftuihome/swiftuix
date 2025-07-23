@@ -55,62 +55,62 @@ export default defineConfig({
       {
         text: '教程', activeMatch: '^/(base|custom_views|core|network|geometry|refactor|animation|purchase|thinking|grid|advanced|lifecycle)/', items: [
           {
-            text: 'SwiftUI 入门',
+            text: 'SwiftUI 从入门到进阶',
             link: '/base/',
             activeMatch: '^/base/'
           },
           {
-            text: 'SwiftUI 视图',
+            text: 'SwiftUI 自定义视图组件',
             link: '/custom_views/',
             activeMatch: '^/custom_views/'
           },
           {
-            text: 'SwiftUI 核心',
+            text: 'SwiftUI 核心技术与高级实践',
             link: '/core/',
             activeMatch: '^/core/'
           },
           {
-            text: 'SwiftUI 网络',
+            text: 'SwiftUI 网络编程实战',
             link: '/network/',
             activeMatch: '^/network/'
           },
           {
-            text: 'SwiftUI 动效',
+            text: 'SwiftUI 动效精讲：掌握 matchedGeometryEffect',
             link: '/geometry/',
             activeMatch: '^/geometry/'
           },
           {
-            text: 'SwiftUI 重构',
+            text: 'SwiftUI 封装与重构：构建可维护的UI',
             link: '/refactor/',
             activeMatch: '^/refactor/'
           },
           {
-            text: 'SwiftUI 动画',
+            text: 'SwiftUI 动画核心技术与实践',
             link: '/animation/',
             activeMatch: '^/animation/'
           },
           {
-            text: 'SwiftUI 内购',
+            text: 'SwiftUI 订阅实战：从StoreKit到用户界面',
             link: '/purchase/',
             activeMatch: '^/purchase/'
           },
           {
-            text: 'SwiftUI 思想',
+            text: 'SwiftUI 框架核心：声明式设计与数据驱动思想',
             link: '/thinking/',
             activeMatch: '^/thinking/'
           },
           {
-            text: 'SwiftUI 网格',
+            text: 'SwiftUI 网格布局：从LazyVGrid到Grid的全面实践',
             link: '/grid/',
             activeMatch: '^/grid/'
           },
           {
-            text: 'SwiftUI 高阶',
+            text: 'SwiftUI 高阶布局与数据流实战',
             link: '/advanced/',
             activeMatch: '^/advanced/'
           },
           {
-            text: 'SwiftUI 生命周期',
+            text: 'SwiftUI 视图生命周期：创建、更新与销毁',
             link: '/lifecycle/',
             activeMatch: '^/lifecycle/'
           },
@@ -1872,13 +1872,12 @@ export default defineConfig({
 
     // 社交链接
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/swiftuihome/swiftuix' },
       { icon: 'bilibili', link: 'https://space.bilibili.com/249603883' }
     ],
 
     // 页脚
     footer: {
-      message: '本站使用 VitePress 制作',
+      message: '',
       copyright: '版权所有 © 2025 SwiftUIX'
     },
   }
