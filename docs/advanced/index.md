@@ -9,18 +9,15 @@
 通过13个精心设计的章节，本书系统性地讲解了如何构建灵活、高效且可维护的SwiftUI应用，每章都配有可直接应用于生产环境的代码示例和最佳实践。
 
 ## ✅ 你将学到：
-- GeometryReader的深度使用与性能优化
-- PreferenceKey实现逆向数据流的完整方案
-- 创建完全自定义的布局系统
-- 精确控制视图对齐与锚点定位
-- @StateObject与@ObservedObject的精准运用
-- 环境值与环境对象的高级应用
-- iOS 17+ Observation框架的现代化数据流
-- 持久化数据管理（Core Data & SwiftData）
-- 构建可复用的自定义视图组件
-- SwiftUI性能分析与调优技巧
-- 实现复杂动画与自定义转场效果
-- SwiftUI与UIKit/AppKit的深度互操作
-- 在现有UIKit项目中渐进式采用SwiftUI
+- 精通 SwiftUI 高级布局技术与自定义布局实现
+- 熟练运用 GeometryReader 进行尺寸和位置测量
+- 掌握 PreferenceKey 和 Anchor 实现视图间通信
+- 深入理解 SwiftUI 数据流管理与状态绑定
+- 高效实现响应式和自适应用户界面布局
+- 运用 Observation 框架简化数据管理和状态更新
+- 掌握 SwiftUI 动画和转场效果的创建与优化
+- 实现 SwiftUI 与 UIKit 的无缝集成与互操作
+- 提升 SwiftUI 应用性能和解决常见瓶颈
+- 熟练运用 SwiftData 进行现代数据持久化管理
 
 本书适合已掌握SwiftUI基础知识，希望深入理解框架内部机制并解决复杂应用开发挑战的中高级开发者。通过学习本书，您将能够构建出性能优异、架构清晰且易于维护的跨平台SwiftUI应用。
