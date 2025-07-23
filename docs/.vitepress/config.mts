@@ -43,7 +43,7 @@ export default defineConfig({
     },
     nav: [
       { text: '首页', link: '/' },
-      { text: '教程', link: '/swiftui-basics' }
+      { text: '基础教程', link: '/swiftui-basics' }
     ],
 
     sidebar: [
