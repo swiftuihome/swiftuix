@@ -12,34 +12,33 @@ hero:
   actions:
     - theme: brand
       text: 开始学习
-      link: /swiftui-basics
+      link: /base
     - theme: alt
-      text: 动画指南
-      link: /swiftui-animation
+      text: 组件示例
+      link: /custom_views
 
 features:
   - icon: 📘
-    title: SwiftUI 基础教程
+    title: 系统化 SwiftUI 教程
     details: 从基础控件到复杂布局、动画和数据绑定，打造完整的 SwiftUI 学习路径，适合所有开发者。
-    link: /swiftui-basics
+    link: /base
     linkText: 开始学习
 
   - icon: 🧩
     title: 可复用组件库
     details: 提供封装良好的常用 UI 组件和代码片段，加速你的 SwiftUI 开发流程，提升项目质量。
-    link: /swiftui-animation
+    link: /custom_views
     linkText: 查看组件库
 
   - icon: 🚀
     title: 实战项目驱动
     details: 通过待办事项、天气 App 等多个完整项目，从实战中掌握 SwiftUI 的核心用法和最佳实践。
-    link: /swiftui-basics
+    link: /core
     linkText: 浏览项目案例
 
   - icon: 🔗
     title: 融合 Apple 生态
     details: 深度整合 Combine、SwiftData、CoreData 等原生技术，打造高性能、现代化的应用。
-    link: /swiftui-animation
+    link: /thinking
     linkText: 深入探索生态
 ---
-
