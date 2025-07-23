@@ -55,7 +55,7 @@ export default defineConfig({
       {
         text: '教程', activeMatch: '^/(base|custom_views|core|network|geometry|refactor|animation|purchase|thinking|grid|advanced|lifecycle)/', items: [
           {
-            text: 'SwiftUI 从入门到进阶',
+            text: 'SwiftUI实战指南：构建iOS 17应用',
             link: '/base/',
             activeMatch: '^/base/'
           },
