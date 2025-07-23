@@ -19,7 +19,7 @@ hero:
 
 features:
   - icon: 📘
-    title: 系统化 SwiftUI 教程
+    title: SwiftUI 基础教程
     details: 从基础控件到复杂布局、动画和数据绑定，打造完整的 SwiftUI 学习路径，适合所有开发者。
     link: /swiftui-basics
     linkText: 开始学习
